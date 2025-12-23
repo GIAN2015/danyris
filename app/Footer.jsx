@@ -104,7 +104,7 @@ export default function Footer() {
               <i className="bi bi-telephone me-2 text-white"></i>
               <div>
                 <span className="text-gray-300">Teléfonos</span><br />
-                <strong className="text-white">(+51) 904 382 297 / 01 741-0619</strong>
+                <strong className="text-white">(+51) 913 589 865 / 01 741-0619</strong>
               </div>
             </div>
 
@@ -112,7 +112,7 @@ export default function Footer() {
               <i className="bi bi-whatsapp me-2 text-white"></i>
               <div>
                 <span className="text-gray-300">WhatsApp</span><br />
-                <strong className="text-white">904 382 297</strong>
+                <strong className="text-white">913 589 865</strong>
               </div>
             </div>
 

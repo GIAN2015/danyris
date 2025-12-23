@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
+    "@fontsource/oxanium": "^5.2.8",
     "@fortawesome/fontawesome-free": "^6.7.2",
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.6",
@@ -20,7 +21,8 @@
     "next": "15.3.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-google-recaptcha": "^3.1.0"
+    "react-google-recaptcha": "^3.1.0",
+    "turbopack": "^0.0.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",

@@ -245,7 +245,7 @@ const [error, setError] = useState('');
                                 <i class="bi bi-whatsapp"></i>
                                 <div>
                                     <span class="label">WhatsApp</span><br />
-                                    <strong>913 589 865</strong>
+                                    <strong>913 589 865 / 904 382 297</strong>
                                 </div>
                             </div>
 
@@ -253,7 +253,7 @@ const [error, setError] = useState('');
                                 <i class="bi bi-envelope-fill"></i>
                                 <div>
                                     <span class="label">Email</span><br />
-                                    <strong>gian.sinarahua@danyris.com</strong>
+                                    <strong>informes@danyris.com</strong>
                                 </div>
                             </div>
 
